@@ -2,7 +2,7 @@
   "name": "quizes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nizararabi12.github.io/Made_in_Nizar/",
+  "homepage": "http://neveenatik.github.io/Quizes/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
